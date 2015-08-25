@@ -12,7 +12,7 @@ license 'bsd';
 name 'Task-WWW-Search-Antiquarian-Czech';
 readme_from 'Czech.pm';
 requires 'WWW::Search::Antikvariat11CZ' => 0.01;
-requires 'WWW::Search::AntikvariatJudaicaCZ' => 0.01;
+requires 'WWW::Search::AntikvariatJudaicaCZ' => 0.02;
 requires 'WWW::Search::GalerieIlonkaCZ' => 0.01;
 requires 'WWW::Search::KacurCZ' => 0.01;
 requires 'WWW::Search::MelcerCZ' => 0.01;

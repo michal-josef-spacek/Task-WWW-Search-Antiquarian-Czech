@@ -26,7 +26,7 @@ no_index:
     - t
 requires:
   WWW::Search::Antikvariat11CZ: 0.01
-  WWW::Search::AntikvariatJudaicaCZ: 0.01
+  WWW::Search::AntikvariatJudaicaCZ: 0.02
   WWW::Search::GalerieIlonkaCZ: 0.01
   WWW::Search::KacurCZ: 0.01
   WWW::Search::MelcerCZ: 0.01
