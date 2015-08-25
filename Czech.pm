@@ -25,12 +25,33 @@ Task::WWW::Search::Antiquarian::Czech - Install the WWW::Search modules for Czec
 
 =head1 SEE ALSO
 
-L<WWW::Search::Antikvariat11CZ>,
-L<WWW::Search::AntikvariatJudaicaCZ>,
-L<WWW::Search::GalerieIlonkaCZ>,
-L<WWW::Search::KacurCZ>,
-L<WWW::Search::MelcerCZ>,
-L<WWW::Search::ValentinskaCZ>.
+=over
+
+=item L<WWW::Search::Antikvariat11CZ>
+
+Class for searching http://antikvariat11.cz .
+
+=item L<WWW::Search::AntikvariatJudaicaCZ>
+
+Class for searching http://antikvariat-judaica.cz .
+
+=item L<WWW::Search::GalerieIlonkaCZ>
+
+Class for searching http://galerie-ilonka.cz .
+
+=item L<WWW::Search::KacurCZ>
+
+Class for searching http://kacur.cz .
+
+=item L<WWW::Search::MelcerCZ>
+
+Class for searching http://melcer.cz .
+
+=item L<WWW::Search::ValentinskaCZ>
+
+Class for searching http://valentinska.cz .
+
+=back
 
 =head1 REPOSITORY
 
